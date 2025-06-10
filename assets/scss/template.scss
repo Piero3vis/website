@@ -115,3 +115,17 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+// Add padding to account for fixed header
+section[id] {
+  scroll-margin-top: 70px;
+}
+
+// Optional: Style for section transitions
+.wg-block {
+  margin-bottom: 3rem;
+}

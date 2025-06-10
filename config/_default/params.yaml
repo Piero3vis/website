@@ -10,7 +10,8 @@ appearance:
   theme_night: custom
   font: minimal
   font_size: L
-
+  
+scroll_behavior: smooth
 # SEO
 
 marketing:
