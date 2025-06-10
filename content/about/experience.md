@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://docs.hugoblox.com/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.iasf-milano.inaf.it/'
     company_logo: org-gc
     location: Milan, Italy
-    date_start: 'Feb 2025'
+    date_start: '2025'
     date_end: ''
     description: |2-
         Development and testing of software for accelerating N-body and/or hydrodynamic simulations, generating synthetic data, and likelihood-free inference methods for applications in cosmology/astrophysics, using Machine/Deep Learning techniques.
@@ -44,8 +44,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Este, Padua
-    date_start: 'Jan 2020'
-    date_end: 'Jun 2020'
+    date_start: '2020'
+    date_end: '2020'
     
     description: |2-
         * Developing and delivering comprehensive mathematics curriculum for students ranging from 18 to 50 years with different backgrounds 

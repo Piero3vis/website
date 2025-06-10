@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://docs.hugoblox.com/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Rome, Italy
-    date_start: 'Nov 2020'
-    date_end: 'Dec 2023'
+    date_start: '2020'
+    date_end: '2023'
     description: |2-
         * Developed interpretable ML models for astrophysical datasets; achieved high-precision, sparse classifiers
         * International Collaboration: Collaboration with leading institution such as MILA and Université de Montréal 
@@ -39,8 +39,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Padua (Italy), Heidelberg (Germany)
-    date_start: 'Oct 2015'
-    date_end: 'Mar 2019'
+    date_start: '2015'
+    date_end: '2019'
     
     description: |2-
           *Thesis title: "Convolutional Neural Networks in Astrophysics: a case study for gas turbulence" - Final mark 110/110 cum laude 
@@ -53,8 +53,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Padua (Italy)
-    date_start: 'Oct 2012'
-    date_end: 'Oct 2015'
+    date_start: '2012'
+    date_end: '2015'
 
 design:
   columns: '1'
