@@ -25,15 +25,17 @@ experience:
   - title: Research Fellow
     company: National Institute of Astrophysics (INAF - IASF)
     company_url: 'https://www.iasf-milano.inaf.it/'
-    company_logo: org-gc
+    company_logo: logo_iasf_small-3368719921
     location: Milan, Italy
     date_start: '2025-02-01'
-    date_end: '2025-06-01'
+    
     description: |2-
         Development and testing of software for accelerating N-body and/or hydrodynamic simulations, generating synthetic data, and likelihood-free inference methods for applications in cosmology/astrophysics, using Machine/Deep Learning techniques.
 
       • ML/DL: Currently, I am developing training strategies for super-resolution of cosmological simulations,  via StyleGAN2 generative network, with high performace computing (HPC)
+
       • HPC: Currently, I am using both G100 and Leonardo Booster supercomputers @CINECA (Bologna). 
+
       • Relevant Workshop and conferences:
         - USC-C AI workshop - Catania (21-23 May 2025)
         - HPC Visualisation workshop - Barcelona Supercomputer Center (13- 14 May 2025)
@@ -45,7 +47,7 @@ experience:
     company_logo: org-x
     location: Este, Padua
     date_start: '2020-01-01'
-    date_end: '2020-01-01'
+    
     
     description: |2-
         * Developing and delivering comprehensive mathematics curriculum for students ranging from 18 to 50 years with different backgrounds 

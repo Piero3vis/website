@@ -43,12 +43,13 @@ experience:
     date_end: '2019-03-07'
     
     description: |2-
-          *Thesis title: "Convolutional Neural Networks in Astrophysics: a case study for gas turbulence" - Final mark 110/110 cum laude 
+          * Thesis title: "Convolutional Neural Networks in Astrophysics: 
+          a case study for gas turbulence" - Final mark 110/110 cum laude 
           * Weighted Mean of grades: 29.11/30 
           * Erasmus Project in Heidelberg, Germany 
 
   
-  - title: BSc
+  - title: BSc in Astronomy 
     company: University of Padua
     company_url: ''
     company_logo: org-x
