@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.iasf-milano.inaf.it/'
     company_logo: org-gc
     location: Milan, Italy
-    date_start: '2025'
-    date_end: ''
+    date_start: '2025-02-01'
+    date_end: '2025-06-01'
     description: |2-
         Development and testing of software for accelerating N-body and/or hydrodynamic simulations, generating synthetic data, and likelihood-free inference methods for applications in cosmology/astrophysics, using Machine/Deep Learning techniques.
 
@@ -44,8 +44,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Este, Padua
-    date_start: '2020'
-    date_end: '2020'
+    date_start: '2020-01-01'
+    date_end: '2020-01-01'
     
     description: |2-
         * Developing and delivering comprehensive mathematics curriculum for students ranging from 18 to 50 years with different backgrounds 

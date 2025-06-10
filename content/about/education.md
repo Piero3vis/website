@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Rome, Italy
-    date_start: '2020'
-    date_end: '2023'
+    date_start: '2020-11-01'
+    date_end: '2023-12-22'
     description: |2-
         * Developed interpretable ML models for astrophysical datasets; achieved high-precision, sparse classifiers
         * International Collaboration: Collaboration with leading institution such as MILA and Université de Montréal 
@@ -39,8 +39,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Padua (Italy), Heidelberg (Germany)
-    date_start: '2015'
-    date_end: '2019'
+    date_start: '2015-10-01'
+    date_end: '2019-03-07'
     
     description: |2-
           *Thesis title: "Convolutional Neural Networks in Astrophysics: a case study for gas turbulence" - Final mark 110/110 cum laude 
@@ -53,8 +53,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Padua (Italy)
-    date_start: '2012'
-    date_end: '2015'
+    date_start: '2012-10-01'
+    date_end: '2015-10-01'
 
 design:
   columns: '1'
