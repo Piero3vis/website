@@ -22,28 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Research Fellow
+    company: National Institute of Astrophysics (INAF - IASF)
+    company_url: 'https://www.iasf-milano.inaf.it/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Milan, Italy
+    date_start: '01-02-2025'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Development and testing of software for accelerating N-body and/or hydrodynamic simulations, generating synthetic data, and likelihood-free inference methods for applications in cosmology/astrophysics, using Machine/Deep Learning techniques.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+      • ML/DL: Currently, I am developing training strategies for super-resolution of cosmological simulations,  via StyleGAN2 generative network, with high performace computing (HPC)
+      • HPC: Currently, I am using both G100 and Leonardo Booster supercomputers @CINECA (Bologna). 
+      • Relevant Workshop and conferences:
+        - USC-C AI workshop - Catania (21-23 May 2025)
+        - HPC Visualisation workshop - Barcelona Supercomputer Center (13- 14 May 2025)
+        - UniVersum - Padua (14-16 April 2025)
+
+-title: Math Teacher
+    company: Instituto Manfredini
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Este, Padua
+    date_start: '2020'
+    
+    description: |2-
+        * Developing and delivering comprehensive mathematics curriculum for students ranging from 18 to 50 years with different backgrounds 
+        * Fostering a collaborative and feedback-oriented learning environment 
 
 design:
   columns: '1'

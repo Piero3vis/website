@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Education
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -22,27 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Fellow
-    company: INAF-IASF
+  - title: PhD in Astronomy, Astrophysics and Space Sciences
+    company: Sapienza University of Rome
     company_url: ''
     company_logo: org-x
-    location: Milan, Italy
-    date_start: '01-02-2025'
-    date_end: ''
-    description: |2-
-        * Developing of code for super resolution of cosmological simulations
-        * Improving of generative AI training for high performance computing
-
-  - title: Math Teacher
-    company: Instituto Manfredini
-    company_url: ''
-    company_logo: org-x
-    location: Este, Padua
+    location: Rome, Italy
     date_start: '2020'
+    date_end: '2023'
+    description: |2-
+        * Developed interpretable ML models for astrophysical datasets; achieved high-precision, sparse classifiers
+        * International Collaboration: Collaboration with leading institution such as MILA and Université de Montréal 
+        * Autoherd and Co-authored 5 peer-reviewed papers (e.g., ApJ, MNRAS, ICML AI4Science workshop)
+
+  - title: MSc in Astronomy
+    company: University of Padua, Heidelberg University
+    company_url: ''
+    company_logo: org-x
+    location: Padua (Italy), Heidelberg (Germany)
+    date_start: '2015'
+    date_end: '2019'
     
     description: |2-
-        * Developing and delivering comprehensive mathematics curriculum for students ranging from 18 to 50 years with different backgrounds 
-        * Fostering a collaborative and feedback-oriented learning environment 
+          *Thesis title: "Convolutional Neural Networks in Astrophysics: a case study for gas turbulence" - Final mark 110/110 cum laude 
+          * Weighted Mean of grades: 29.11/30 
+          * Erasmus Project in Heidelberg, Germany 
+
+  
+  - title: BSc
+    company: University of Padua
+    company_url: ''
+    company_logo: org-x
+    location: Padua (Italy)
+    date_start: '2012'
+    date_end: '2015'
 
 design:
   columns: '1'
