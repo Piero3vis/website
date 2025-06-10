@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Piero**, a machine learning researcher at Netflix.
+👋 Bidet! I'm **Piero**, a researcher for the National Institute of Astrophysics (INAF-IASF). Why are you here? it's a beautiful day outside. No, would you interested in some interpretable machine learning applied to astrophysics?   
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below 😍

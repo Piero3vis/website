@@ -6,11 +6,11 @@ title: Piero Trevisan
 superuser: true
 
 # Role/position
-role: ''
+role: 'Research Fellow'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍜
 
 # Organizations/Affiliations
 #organizations:
