@@ -39,7 +39,7 @@ experience:
         - HPC Visualisation workshop - Barcelona Supercomputer Center (13- 14 May 2025)
         - UniVersum - Padua (14-16 April 2025)
 
--title: Math Teacher
+  - title: Math Teacher
     company: Instituto Manfredini
     company_url: ''
     company_logo: org-x
